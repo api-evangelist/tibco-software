@@ -1,0 +1,44 @@
+{
+    "id": "1f90cf271c34f7299c7c6a02ee38cce0",
+    "name": "xx.WeatherAPI",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "144804736f08804a81957dc3f9a2dd4f",
+            "name": "",
+            "url": "http:\/\/app.cloud.tibco.com:443\/uyi4jj5jxd47rvt3yzlulj5iooic7vhm\/xx\/CityWeatherByZip\/{ZipCode}",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "ZipCode",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "1f90cf271c34f7299c7c6a02ee38cce0",
+            "rawModeData": ""
+        }
+    ]
+}
