@@ -1,0 +1,118 @@
+{
+    "name": "TIBCO Software",
+    "description": "TIBCO Software is the leading independent provider of infrastructure software creating event-enabled enterprises to use on-premise or as part of cloud computing environments.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11397-tibco-software.jpg",
+    "tags": [
+        "api management other",
+        "deployment",
+        "gateway",
+        "have api",
+        "have swagger",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tibco-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TIBCO Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11397-tibco-software.jpg",
+            "humanURL": "http:\/\/tibco.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/tibco-software.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tibco-software-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "xx.WeatherAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11397-tibco-software.jpg",
+            "humanURL": "http:\/\/tibco.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/xx-weatherapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xx-weatherapi-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tibco.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.tibco.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.tibco.com\/blog\/feed\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/TheTibcoBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tibco-software"
+        },
+        {
+            "type": "Email",
+            "url": "public.relations@tibco.com"
+        },
+        {
+            "type": "Email",
+            "url": "analyst.relations@tibco.com"
+        },
+        {
+            "type": "Email",
+            "url": "tibcommunity@tibco.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@tibco.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@tibco.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TIBCOSoftware"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/11397-2019-09-03-17-33-08.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tibco"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tibco.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/tibco.com"
+        }
+    ]
+}
