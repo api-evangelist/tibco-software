@@ -1,5 +1,5 @@
 {
-    "id": "1f90cf271c34f7299c7c6a02ee38cce0",
+    "id": "34f1a9a6e78dbc7cd528aea69a0bace3",
     "name": "xx.WeatherAPI",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "144804736f08804a81957dc3f9a2dd4f",
+            "id": "ccc4d768289463a58ba50dc47f1c6392",
             "name": "",
             "url": "http:\/\/app.cloud.tibco.com:443\/uyi4jj5jxd47rvt3yzlulj5iooic7vhm\/xx\/CityWeatherByZip\/{ZipCode}",
             "description": "",
@@ -37,7 +37,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "1f90cf271c34f7299c7c6a02ee38cce0",
+            "collectionId": "34f1a9a6e78dbc7cd528aea69a0bace3",
             "rawModeData": ""
         }
     ]
